@@ -111,6 +111,8 @@ Item
             case QLCPalette.Color:
                 colorPreview.color = editingPalette.fanningValue
             break
+            case QLCPalette.Shutter:
+            break
         }
     }
 

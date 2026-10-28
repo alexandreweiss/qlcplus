@@ -292,6 +292,9 @@ Rectangle
                                 case QLCPalette.Position3D:
                                     toolLoader.source = "qrc:/Position3DTool.qml"
                                 break
+                                case QLCPalette.Shutter:
+                                    toolLoader.source = "qrc:/ShutterTool.qml"
+                                break
                             }
                         }
 
